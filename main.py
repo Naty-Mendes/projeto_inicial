@@ -16,4 +16,4 @@ lista = [1,2,3,4,5]
 print(lista)
 
 #metodos
-listas_invertida = lista.reverse
+listas_invertida = lista.reverse//
