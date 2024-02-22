@@ -17,4 +17,4 @@ print(lista)
 
 #metodos
 listas_invertida = lista.reverse
-alterado no vscode
+
