@@ -1,4 +1,4 @@
-# Olá bem vindos ao meu Git hub
+# Olá, sejam bem vindos ao meu Github
 
 ## Sub-título
 
